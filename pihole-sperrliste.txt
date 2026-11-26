@@ -1,6 +1,4 @@
-# Eigene Sperrliste aus FritzBox-Mitschnitt vom 26.11.2026 (ca. 5,6 Minuten)
-# Format: Adblock-Syntax, sperrt auch alle Subdomains (Pi-hole v6)
-# Erstellt mit Claude. Keine geprüfte Malware-Liste, sondern Werbung/Tracking.
+
 
 # Werbe- und Tracking-Domains mit Zufallsnamen (rotierende Werbenetz-Domains, nicht einzeln verifiziert)
 ||gogukypynijoxy.com^
