@@ -27,3 +27,6 @@
 ||reachit.network^
 ||pxltag.com^
 ||upscore.com^
+
+# google-dns sperren
+||dns.google^
